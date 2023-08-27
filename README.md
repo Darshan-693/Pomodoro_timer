@@ -1,1 +1,1 @@
-# Pomodoro_timer
+# Pomodoro_timer using tkinter python
